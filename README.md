@@ -15,7 +15,7 @@
 ### 🚀 About Me
 
 <p align="center">
-  <img src="<img width=498" height="270" alt="image" src="https://github.com/user-attachments/assets/7e651cb1-2a26-42a1-b893-377f63faa467" />
+  <img src="https://media.tenor.com/Zu88f9GsbzYAAAAi/charizard-dance.gif" />
 " />
 </p>
 
