@@ -18,6 +18,8 @@
 - 🛠️ Interested in **Computer Vision**, **Operating Systems**, and **Intelligent Automation**.
 - 💻 Building practical applications ranging from real-time lane detection to automated data extraction pipelines.
 - 🐧 Daily driver: Windows 11 + WSL (Ubuntu) | VS Code.
+- 🚗 Love learning and experimenting in autootive technology
+- 🖥️ Trying to get better at coding day by day
 
 ---
 
