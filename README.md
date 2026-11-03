@@ -1,16 +1,10 @@
 <div align="center">
 
 #:WELCOME TO MY GitHub PROFILE (Venu277):
+
 **Computer Science Undergrad | AI & ML Enthusiast | Systems & Vision Builder**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
-<!-- Optional banner GIF or static image -->
-<img src="https://media.giphy.com/media/LmN8OYiY4m0X85K0Zz/giphy.gif" width="60%" alt="Header Banner" />
-
-</div>
 
 ---
 
