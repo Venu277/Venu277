@@ -14,6 +14,11 @@
 
 ### 🚀 About Me
 
+<p align="center">
+  <img src="<img width=498" height="270" alt="image" src="https://github.com/user-attachments/assets/7e651cb1-2a26-42a1-b893-377f63faa467" />
+" />
+</p>
+
 - 🎓 Pursuing a **B.Tech in Computer Science & Engineering (AI/ML)**.
 - 🛠️ Interested in **Computer Vision**, **Operating Systems**, and **Intelligent Automation**.
 - 💻 Building practical applications ranging from real-time lane detection to automated data extraction pipelines.
