@@ -4,6 +4,10 @@
 
 **Computer Science Undergrad | AI & ML Enthusiast | Systems & Vision Builder**
 
+<p align="center">
+  <img src="https://media.tenor.com/rbx3ph5SLRUAAAAi/pikachu-pokemon.gif" />
+</p>
+
 ---
 
 ### 🚀 About Me
