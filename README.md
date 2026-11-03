@@ -1,12 +1,14 @@
 
 
-#**WELCOME TO MY GitHub PROFILE (Venu277):
+# **WELCOME TO MY GitHub PROFILE (Venu277):
 
-**Computer Science Undergrad | AI & ML Enthusiast | Systems & Vision Builder**
+
 
 <p align="center">
   <img src="https://media.tenor.com/rbx3ph5SLRUAAAAi/pikachu-pokemon.gif" />
 </p>
+
+**Computer Science Undergrad | AI & ML Enthusiast | Systems & Vision Builder**
 
 ---
 
