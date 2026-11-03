@@ -4,7 +4,7 @@
 
 
 
-<p align="center">
+<p>
   <img src="https://media.tenor.com/rbx3ph5SLRUAAAAi/pikachu-pokemon.gif" />
 </p>
 
@@ -14,10 +14,6 @@
 
 ### 🚀 About Me
 
-<p align="center">
-  <img src="https://media.tenor.com/Zu88f9GsbzYAAAAi/charizard-dance.gif" />
-" />
-</p>
 
 - 🎓 Pursuing a **B.Tech in Computer Science & Engineering (AI/ML)**.
 - 🛠️ Interested in **Computer Vision**, **Operating Systems**, and **Intelligent Automation**.
