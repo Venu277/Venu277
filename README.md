@@ -1,10 +1,8 @@
-<div align="center">
 
-#:WELCOME TO MY GitHub PROFILE (Venu277):
+
+#:**WELCOME TO MY GitHub PROFILE (Venu277):
 
 **Computer Science Undergrad | AI & ML Enthusiast | Systems & Vision Builder**
-
-
 
 ---
 
