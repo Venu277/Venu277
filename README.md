@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/Venugopal-Yelaburgi" target="_blank">
+<a href="https://https://www.linkedin.com/in/venugopal-yelaburgi-5851303b6/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
