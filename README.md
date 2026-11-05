@@ -15,12 +15,7 @@
 ### 🚀 About Me
 
 
-- 🎓 Pursuing a **B.Tech in Computer Science & Engineering (AI/ML)**.
-- 🛠️ Interested in **Computer Vision**, **Operating Systems**, and **Intelligent Automation**.
-- 💻 Building practical applications ranging from real-time lane detection to automated data extraction pipelines.
-- 🐧 Daily driver: Windows 11 + WSL (Ubuntu) | VS Code.
-- 🚗 Love learning and experimenting in autootive technology
-- 🖥️ Trying to get better at coding day by day
+👋 Hi, I'm a B.Tech Computer Science & Engineering (AI/ML) student passionate about Computer Vision, Operating Systems, and Intelligent Automation. I enjoy turning ideas into practical, working applications, from real-time lane detection systems to automated data extraction pipelines. I work primarily on Windows 11 with WSL (Ubuntu) and VS Code, and I'm especially drawn to automotive technology, where AI meets the real world. I'm committed to improving my skills a little every day through building, experimenting, and learning in public.
 
 ---
 
