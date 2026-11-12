@@ -41,6 +41,26 @@ Hi, I'm a B.Tech Computer Science & Engineering (AI/ML) student passionate about
 
 ---
 
+### 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=solidity,js,ts,py,java,cpp,react,nextjs,tailwind,nodejs,express&perline=11" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,kubernetes,aws,gcp,git,vscode,postman,vite&perline=11" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 ### 📬 Connect With Me
 
 <div align="center">
