@@ -45,11 +45,11 @@ Hi, I'm a B.Tech Computer Science & Engineering (AI/ML) student passionate about
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,js,ts,py,java,cpp,react,nextjs,tailwind,nodejs,express&perline=11" />
+    <img src="https://skillicons.dev/icons?i=solidity,js,ts,py,java,react,nextjs,nodejs,&perline=11" />
   </a>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,kubernetes,aws,gcp,git,vscode,postman,vite&perline=11" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,postman,vite&perline=11" />
   </a>
 </p>
 
