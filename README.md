@@ -70,3 +70,7 @@ Hi, I'm a B.Tech Computer Science & Engineering (AI/ML) student passionate about
 </a>
 
 </div>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
