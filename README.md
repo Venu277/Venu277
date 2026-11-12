@@ -72,6 +72,5 @@ Hi, I'm a B.Tech Computer Science & Engineering (AI/ML) student passionate about
 </div>
 
 ---
-
-## Contributionss..
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Venu277&theme=tokyo-night)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venu277&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venu277&layout=compact&theme=tokyonight)
