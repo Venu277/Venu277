@@ -73,4 +73,4 @@ Hi, I'm a B.Tech Computer Science & Engineering (AI/ML) student passionate about
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Venu277&theme=tokyo-night)
