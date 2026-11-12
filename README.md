@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/nYyGRI9Ogu8AAAAd/psyduck-pok%C3%A9mon.gif" />
+  <img src="https://media.tenor.com/rbx3ph5SLRUAAAAi/pikachu-pokemon.gif" />
 </p>
 
 **Computer Science Undergrad | AI & ML Enthusiast | Systems & Vision Builder**
