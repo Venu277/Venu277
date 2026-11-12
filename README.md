@@ -73,4 +73,4 @@ Hi, I'm a B.Tech Computer Science & Engineering (AI/ML) student passionate about
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Venu277&color=blueviolet&style=flat-square)
