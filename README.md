@@ -61,6 +61,8 @@ Hi, I'm a B.Tech Computer Science & Engineering (AI/ML) student passionate about
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Venu277&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+[![ github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Venu277)](https://github.com/Venu277/github-readme-activity-graph)
+
 ### 📬 Connect With Me
 
 <div align="center">
