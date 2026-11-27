@@ -10,15 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/rbx3ph5SLRUAAAAi/pikachu-pokemon.gif" width="120" alt="Pikachu" />
+  <img src="https://media.tenor.com/rbx3ph5SLRUAAAAi/pikachu-pokemon.gif"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Venu277&label=Profile%20Views&color=00b4d8&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/Venu277?tab=followers">
-    <img src="https://img.shields.io/github/followers/Venu277?label=Followers&style=for-the-badge&logo=github&color=0077b6" alt="Followers" />
-  </a>
-</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
