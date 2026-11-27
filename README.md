@@ -1,7 +1,4 @@
 <!-- ===================== HEADER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Venugopal%20Yelaburgi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Systems&descAlignY=58&descSize=18" width="100%" />
-</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
