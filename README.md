@@ -8,7 +8,7 @@
   <img src="https://media.tenor.com/rbx3ph5SLRUAAAAi/pikachu-pokemon.gif" />
 </p>
 
-**Computer Science Undergrad | AI & ML Enthusiast | Systems & Vision Build**
+**Computer Science Undergrad | AI & ML Enthusiast | Systems & Vision Builder**
 
 ---
 
