@@ -29,11 +29,7 @@ class Venugopal:
         return "real-time lane detection, automated data pipelines, and more..."
 ```
 
-- 🔭 **Currently exploring:** real-time perception for driver-assistance systems
-- 🌱 **Learning:** deep learning with PyTorch, OS internals, and Linux tooling
-- 🛠️ **Love building:** working apps that turn ideas into something you can actually run
-- 💬 **Ask me about:** OpenCV, lane detection, Python automation, WSL workflows
-- ⚡ **Fun fact:** I'm a Pokémon fan, hence the Pikachu 🐭⚡
+I'm a B.Tech Computer Science & Engineering (AI/ML) student with a deep interest in Computer Vision, Operating Systems, and Intelligent Automation. I like turning ideas into working applications, from real-time lane detection systems to automated data extraction pipelines. Automotive technology is where I'm most drawn, because it's where AI meets the real world. I build primarily on Windows 11 with WSL (Ubuntu) and VS Code, and I'm committed to getting a little better every day by building, experimenting, and learning in public.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
