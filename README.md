@@ -63,7 +63,8 @@ I'm a B.Tech Computer Science & Engineering (AI/ML) student with a deep interest
 
 ---
 <p align="center">
-   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Venu277&theme=react-dark&hide_border=true&area=true)
+  https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&hide_border=true&area=true
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 
